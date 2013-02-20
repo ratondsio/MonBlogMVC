@@ -1,5 +1,5 @@
 /* Testé sous MySQL 5.x */
-
+/* */
 drop table if exists T_COMMENTAIRE;
 drop table if exists T_BILLET;
 

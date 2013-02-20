@@ -1,6 +1,6 @@
 <?php
 
-// partie Modèle du blog
+// partie Modèle du blog xx
 // Renvoie la liste de tous les billets, triés par identifiant décroissant
 function getBillets() {
     $bdd = getBDD();

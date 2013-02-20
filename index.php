@@ -1,4 +1,4 @@
-<?php   // partie Contrôleur du blog
+<?php   // partie Contrôleur du blog aaa
 
 require 'modele.php';
 

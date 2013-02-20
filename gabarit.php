@@ -9,7 +9,7 @@
     <div id="global">
       <header>
         <h1 id="titreBlog">Mon Blog</h1>
-        <p>Je vous souhaite la bienvenue sur ce modeste blog.</p>
+        <p>x Je vous souhaite la bienvenue sur ce modeste blog.</p>
       </header>
       <nav>
         <section>

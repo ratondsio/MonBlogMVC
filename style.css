@@ -7,7 +7,7 @@
 	Ainsi, pour pouvoir utiliser un "min-height: 100%" sur div#global, il nous
 	faut:
 	- un parent (body) en "height: 100%";
-	- le parent de body également en "height: 100%". */
+	- le parent de body également en "height: 100%". xxx */
 html, body {
 	height: 100%;
 }
